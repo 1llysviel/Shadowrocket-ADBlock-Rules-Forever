@@ -4,6 +4,7 @@
 
 [General]
 # 默认关闭 ipv6 支持，如果需要请手动开启
+prefer-ipv6 = true
 ipv6 = true
 bypass-system = true
 skip-proxy = 192.168.0.0/16, 10.0.0.0/8, 172.16.0.0/12, fe80::/10, fc00::/7, localhost, *.local, *.lan, *.internal, e.crashlytics.com, captive.apple.com, sequoia.apple.com, seed-sequoia.siri.apple.com, *.ls.apple.com
